@@ -1,0 +1,15 @@
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.csprojAssemblyReference.cache
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form1.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Properties.Resources.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.csproj.GenerateResource.cache
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\bin\Debug\Kursach2.exe.config
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\bin\Debug\Kursach2.exe
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\bin\Debug\Kursach2.pdb
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.exe
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.pdb
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form2.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form3.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form4.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form5.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form6.resources
+C:\Users\TUKeS\source\repos\Kursach2\Kursach2\obj\Debug\Kursach2.Form7.resources
